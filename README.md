@@ -27,6 +27,9 @@ To run this project, you will need to add the following environment variables to
 
 You can get the API key from [openweathermap](https://openweathermap.org/api)
 
+## Screenshot
+![screenshot](https://github.com/Vivek-C-Shah/Copliot-Hackathon/assets/47005884/7533f32f-52ca-484f-a5fd-2a39a7cd28d2)
+
 ## Authors
 
 - [@vivek-shah](https://github.com/Vivek-c-shah) [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/the-cipher-vivek/)
